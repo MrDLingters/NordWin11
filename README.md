@@ -1,1 +1,12 @@
 # Nord theme for Windows 11
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 130856" src="https://github.com/user-attachments/assets/5e5e7e22-6c7f-4d75-a59b-6c3b5dde2e80" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 131117" src="https://github.com/user-attachments/assets/4ed858cb-6a19-4f2b-b633-a8521d6ce10d" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 144349" src="https://github.com/user-attachments/assets/59142e42-d172-408e-a0f5-5107a5e7a893" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 161144" src="https://github.com/user-attachments/assets/a006a83d-2611-4724-a668-a0e7e0360040" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 161247" src="https://github.com/user-attachments/assets/c6303baa-3c70-491d-8a07-fc013fb31bd9" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 130905" src="https://github.com/user-attachments/assets/32f70c0e-d56a-4c96-9f0c-b995befd9e10" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 130913" src="https://github.com/user-attachments/assets/63cb5a70-b453-4748-88e7-8d95979ec05f" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 130931" src="https://github.com/user-attachments/assets/5622effa-08f7-4955-9e91-913fbdbb0174" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 130941" src="https://github.com/user-attachments/assets/11ae87fc-7991-4de3-97b0-695c7d2605d0" />
+<img width="3839" height="2159" alt="Screenshot 2026-08-04 131005" src="https://github.com/user-attachments/assets/991bfab6-a2f6-46a7-acef-7b82b6358966" />
+
