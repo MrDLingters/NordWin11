@@ -1,2 +1,1 @@
-# NordWin11
-Nord theme for Windows 11
+# Nord theme for Windows 11
