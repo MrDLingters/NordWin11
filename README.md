@@ -2,6 +2,7 @@
 ### Other configs i used without changes:
 - [Spotify](https://github.com/spicetify/spicetify-themes/tree/master/text)
 - [Discord](https://github.com/refact0r/system24)
+- [Disable rounded corners in Windows 11 Windhawk mod](https://windhawk.net/mods/disable-rounded-corners)
 ### Akira bar + square corners
 <img width="3839" height="2159" alt="Screenshot 2026-08-04 130856" src="https://github.com/user-attachments/assets/5e5e7e22-6c7f-4d75-a59b-6c3b5dde2e80" />
 <img width="3839" height="2159" alt="Screenshot 2026-08-04 131117" src="https://github.com/user-attachments/assets/4ed858cb-6a19-4f2b-b633-a8521d6ce10d" />
