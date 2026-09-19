@@ -1,4 +1,5 @@
 # Nord theme for Windows 11
+### For YASB use latest version of [Akira theme](https://github.com/MrDLingters/Akira_YASB) with chosen color scheme.
 ### Other configs i used without changes:
 - [Spotify](https://github.com/spicetify/spicetify-themes/tree/master/text)
 - [Discord](https://github.com/refact0r/system24)
